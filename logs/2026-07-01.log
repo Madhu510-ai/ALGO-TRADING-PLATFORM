@@ -1,0 +1,84 @@
+2026-07-01 17:07:35 | INFO | Pipeline Started.
+2026-07-01 17:07:35 | INFO | Loaded 5 symbols.
+2026-07-01 17:07:35 | INFO | Processing RELIANCE (RELIANCE.NS)
+2026-07-01 17:07:35 | INFO | Downloading market data for RELIANCE.NS
+2026-07-01 17:07:35 | INFO | Downloaded 1238 rows.
+2026-07-01 17:07:35 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:07:35 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:07:35 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:07:36 | INFO | RELIANCE saved successfully.
+2026-07-01 17:07:36 | INFO | Processing TCS (TCS.NS)
+2026-07-01 17:07:36 | INFO | Downloading market data for TCS.NS
+2026-07-01 17:07:36 | INFO | Downloaded 1238 rows.
+2026-07-01 17:07:36 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:07:36 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:07:36 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:07:36 | INFO | TCS saved successfully.
+2026-07-01 17:07:36 | INFO | Processing INFY (INFY.NS)
+2026-07-01 17:07:36 | INFO | Downloading market data for INFY.NS
+2026-07-01 17:07:36 | INFO | Downloaded 1238 rows.
+2026-07-01 17:07:36 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:07:36 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:07:36 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:07:36 | INFO | INFY saved successfully.
+2026-07-01 17:07:36 | INFO | Processing SBIN (SBIN.NS)
+2026-07-01 17:07:36 | INFO | Downloading market data for SBIN.NS
+2026-07-01 17:07:37 | INFO | Downloaded 1238 rows.
+2026-07-01 17:07:37 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:07:37 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:07:37 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:07:37 | INFO | SBIN saved successfully.
+2026-07-01 17:07:37 | INFO | Processing ICICIBANK (ICICIBANK.NS)
+2026-07-01 17:07:37 | INFO | Downloading market data for ICICIBANK.NS
+2026-07-01 17:07:37 | INFO | Downloaded 1238 rows.
+2026-07-01 17:07:37 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:07:37 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:07:37 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:07:37 | INFO | ICICIBANK saved successfully.
+2026-07-01 17:07:37 | INFO | Pipeline Finished.
+2026-07-01 17:07:37 | INFO | Successful : 5
+2026-07-01 17:07:37 | INFO | Validation Failed : 0
+2026-07-01 17:07:37 | INFO | Download Failed : 0
+2026-07-01 17:07:37 | INFO | Execution Time : 2.44 sec
+2026-07-01 17:11:35 | INFO | Pipeline Started.
+2026-07-01 17:11:35 | INFO | Loaded 5 symbols.
+2026-07-01 17:11:35 | INFO | Processing RELIANCE (RELIANCE.NS)
+2026-07-01 17:11:35 | INFO | Downloading market data for RELIANCE.NS
+2026-07-01 17:11:36 | INFO | Downloaded 1238 rows.
+2026-07-01 17:11:36 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:11:36 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:11:36 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:11:36 | INFO | RELIANCE saved successfully.
+2026-07-01 17:11:36 | INFO | Processing TCS (TCS.NS)
+2026-07-01 17:11:36 | INFO | Downloading market data for TCS.NS
+2026-07-01 17:11:36 | INFO | Downloaded 1238 rows.
+2026-07-01 17:11:36 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:11:36 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:11:36 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:11:36 | INFO | TCS saved successfully.
+2026-07-01 17:11:36 | INFO | Processing INFY (INFY.NS)
+2026-07-01 17:11:36 | INFO | Downloading market data for INFY.NS
+2026-07-01 17:11:37 | INFO | Downloaded 1238 rows.
+2026-07-01 17:11:37 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:11:37 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:11:37 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:11:37 | INFO | INFY saved successfully.
+2026-07-01 17:11:37 | INFO | Processing SBIN (SBIN.NS)
+2026-07-01 17:11:37 | INFO | Downloading market data for SBIN.NS
+2026-07-01 17:11:37 | INFO | Downloaded 1238 rows.
+2026-07-01 17:11:37 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:11:37 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:11:37 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:11:37 | INFO | SBIN saved successfully.
+2026-07-01 17:11:37 | INFO | Processing ICICIBANK (ICICIBANK.NS)
+2026-07-01 17:11:37 | INFO | Downloading market data for ICICIBANK.NS
+2026-07-01 17:11:37 | INFO | Downloaded 1238 rows.
+2026-07-01 17:11:37 | INFO | Raw Validation Score : 10/10
+2026-07-01 17:11:38 | INFO | Cleaner removed 0 rows.
+2026-07-01 17:11:38 | INFO | Clean Validation Score : 10/10
+2026-07-01 17:11:38 | INFO | ICICIBANK saved successfully.
+2026-07-01 17:11:38 | INFO | Pipeline Finished.
+2026-07-01 17:11:38 | INFO | Successful : 5
+2026-07-01 17:11:38 | INFO | Validation Failed : 0
+2026-07-01 17:11:38 | INFO | Download Failed : 0
+2026-07-01 17:11:38 | INFO | Execution Time : 2.72 sec

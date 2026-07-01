@@ -40,8 +40,8 @@ ENV/
 # data/raw/*.csv
 # data/processed/*.csv
 
-# Logs
-logs/*.log
+# Logs (commented out to allow logs to be pushed)
+# logs/*.log
 
 # OS
 .DS_Store
