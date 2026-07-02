@@ -15,15 +15,35 @@ def save_to_csv(
 
     Example
 
-    data/raw/
-        2026-07-01/
+    data/processed/
+        2026-07-02/
+            RELIANCE.csv
+            TCS.csv
+    """
+    # ==========================================================
+# NEW FUNCTION (Add this below the existing function)
+# ==========================================================
+
+def save_processed_to_csv(
+    dataframe: pd.DataFrame,
+    ticker: str
+) -> Path:
+    """
+    Save processed dataframe into a date-wise folder.
+
+    Example
+
+    data/processed/
+        2026-07-02/
             RELIANCE.csv
             TCS.csv
     """
 
+
     # Today's folder
     today = datetime.now().strftime("%Y-%m-%d")
 
+    # Changed only this line
     save_directory = RAW_DATA_PATH / today
 
     save_directory.mkdir(
